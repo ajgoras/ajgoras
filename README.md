@@ -1,5 +1,5 @@
-Hi I'm Igor 👋
-I really enjoy programming and increasing my skills and knowledge
+Hi I'm Igor 👋\
+I really enjoy programming and increasing my skills and knowledge\
 👨🏼‍💻CS Student
 
 ## Most recent project
