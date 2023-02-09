@@ -4,7 +4,7 @@ I really enjoy programming\
 
 ## Most recent project
 
-Currently I'm working on **MERN Stack Job Search application** [Repo link](https://github.com/ajgoras/job-search-mern)
+Currently I'm working on **MERN Stack Job Search** application [Repo link](https://github.com/ajgoras/job-search-mern)
 
 ## Technologies
 ![Tech](https://skillicons.dev/icons?i=git,html,css,javascript,typescript,react,mongodb)
