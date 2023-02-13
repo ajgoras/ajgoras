@@ -2,9 +2,10 @@ Hi I'm Igor 👋\
 I really enjoy programming\
 👨🏼‍💻CS Student
 
-## Most recent project
+## I am currently working on
 
-Currently I'm working on **MERN Stack Job Search** application [Repo link](https://github.com/ajgoras/job-search-mern)
+ **MERN Stack Job Search** application [Repo link](https://github.com/ajgoras/job-search-mern)\
+ **Sliding Puzzle Game** Engineering thesis project (currently private repository)\
 
 ## Technologies
 ![Tech](https://skillicons.dev/icons?i=git,html,css,javascript,typescript,react,mongodb)
