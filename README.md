@@ -5,7 +5,7 @@ I really enjoy programming\
 ## I am currently working on
 
  **MERN Stack Job Search** application [Repo link](https://github.com/ajgoras/job-search-mern)\
- **Sliding Puzzle Game** Engineering thesis project (currently private repository)\
+ **Sliding Puzzle Game** - Engineering thesis application (currently private repository)
 
 ## Technologies
 ![Tech](https://skillicons.dev/icons?i=git,html,css,javascript,typescript,react,mongodb)
