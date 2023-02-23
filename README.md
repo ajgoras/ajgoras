@@ -1,6 +1,6 @@
 Hi I'm Igor 👋\
-I'm a 23 years old guy from Poland with passion to programming\
-👨🏼‍💻CS Student
+I'm a 23 years old guy from Poland with passion to programming👨🏼‍💻\
+CS Student👨🏼‍🎓
 
 ## I am currently working on
 
