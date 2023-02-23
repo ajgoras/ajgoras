@@ -11,7 +11,7 @@ CS Student 👨🏼‍🎓
 ![Tech](https://skillicons.dev/icons?i=git,html,css,javascript,typescript,react,mongodb)
 
 #### I am currently studying
-![Tech](https://skillicons.dev/icons?i=typescript,react)
+![Tech](https://skillicons.dev/icons?i=typescript,react,angular)
 
 <!--
 **ajgoras/ajgoras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
