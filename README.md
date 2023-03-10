@@ -8,7 +8,7 @@ CS Student 👨🏼‍🎓
  **Sliding Puzzle Game** - Engineering thesis application (currently private repository)
 
 ## Technologies
-![Tech](https://skillicons.dev/icons?i=git,html,css,javascript,typescript,react,mongodb)
+![Tech](https://skillicons.dev/icons?i=git,html,css,javascript,typescript,react,mongodb,c#)
 
 #### I am currently studying
 ![Tech](https://skillicons.dev/icons?i=typescript,react,angular)
