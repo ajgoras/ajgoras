@@ -2,10 +2,10 @@ Hi I'm Igor 👋\
 I'm a 23 years old guy from Poland with passion to programming 👨🏼‍💻\
 CS Student 👨🏼‍🎓
 
-## I am currently working on
+## I am currently working on / Recent projects
 
- **MERN Stack Job Search** application [Repo link](https://github.com/ajgoras/job-search-mern)\
  **Sliding Puzzle Game** - Engineering thesis application [Repo link](https://github.com/ajgoras/Sliding-Puzzle)\
+ **MERN Stack Job Search** application [Repo link](https://github.com/ajgoras/job-search-mern)\
  **Angular Weather App** - [Repo link](https://github.com/ajgoras/angular-weather-app)
 
 ## Technologies
