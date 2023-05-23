@@ -5,7 +5,7 @@ CS Student 👨🏼‍🎓
 ## I am currently working on
 
  **MERN Stack Job Search** application [Repo link](https://github.com/ajgoras/job-search-mern)\
- **Sliding Puzzle Game** - Engineering thesis application (currently private repository)\
+ **Sliding Puzzle Game** - Engineering thesis application [Repo link](https://github.com/ajgoras/Sliding-Puzzle)\
  **Angular Weather App** - [Repo link](https://github.com/ajgoras/angular-weather-app)
 
 ## Technologies
