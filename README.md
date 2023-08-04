@@ -4,7 +4,7 @@ CS Student 👨🏼‍🎓
 
 ## I am currently working on
 
-  **Vue Cat Browser* application [Repo link](https://github.com/ajgoras/vue-cat-browser)
+  **Vue Cat Browser** application [Repo link](https://github.com/ajgoras/vue-cat-browser)
 
  
  ## Recent projects
